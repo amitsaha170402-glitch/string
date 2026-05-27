@@ -2,14 +2,17 @@ import math
 
 y=16.4
 
-#print(math.pi)
-#print(math.e)
+print(math.pi)
+print(math.e)
 
-#result= math.sqrt(y)
-#result= math.ceil(y)
-#result= math.floor(y)
+result= math.sqrt(y)
+print(result)
 
-#print(result)
+result= math.ceil(y)
+print(result)
+result= math.floor(y)
+print(result)
+
 
 
 
