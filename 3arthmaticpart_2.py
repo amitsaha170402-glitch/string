@@ -4,22 +4,22 @@ z=5
 
 
 result= round(x)
-print(round(result ,2))
+print(result)
 
 result= abs(y)
-print(round(result ,2))
+print(result)
 
 result= pow(z, 3)
-print(round(result ,2))
+print(result)
 
 result= min(x,y,z)
-print(round(result ,2))
+print(result)
 
 result= max(x,y,z)
-print(round(result ,2))
+print(result)
 
 result= round(y)
-print(round(result ,2))
+print(result)
 
 result =x*y 
 
